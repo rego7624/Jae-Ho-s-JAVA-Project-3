@@ -6,7 +6,7 @@
 
 ## Description
 
-<img alt="똥 이미지" src="https://lh3.googleusercontent.com/proxy/6cbUKCty4ni0LBC3C6NuXzw-GpWZHzXlvd8Kqz5t5JCKQ2kbCni3Mwo0iY3tI2xkJQdsm2N7BfuWX_249AH9hpmm5ZOcebW0rFnAu39bHyraFa4_xIscv8HdHrrdFVc30PgCFhf3XvHnisJlG0eJrzujG4jcT-ZTQPor6XQSrL9rcAkqi9oMqK_62Jd_zoEqrEFprt9ZjLs4mpc8uCPRBLuZPOXZOFciQ6hp77AMK_Acub8LtF-NM5t8h1D-2JbZTSl1pZNxE_jF4PsGcz9IMgccM-Q4LH1PuK_kjabFUZgEpKfnlQ" width="400">
+<img alt="똥 이미지" src="https://lh3.googleusercontent.com/proxy/LQkANGfSAdupqpSp4fBsVUdB1dOH6pdiHZL3IPJ-_WoqoEbp4CmxCoXD1rFS7hekJGK1SJWZCH1xxrPJr2e1d1IxffRci_UNLFg8sj1zafATxtvOHMQoBN8FBKMaumwgo4OnVwFxz7tVn_T5W-6Cibvvj2NkQdL3LAQuO7_KBWxeetpQCPaWanHtyXRJ_h7-SjTWBkYusm5ydnlcukPwpejCVvBfd5xvi1fFBNCDm-yvgLyLQTCUEaIzLqHiIChWN2cNuH4miPCvWksM6H6GD_LNMZywnp_yKBx0MIgt4KW8p03EHA" width="400">
 
 자바 프로젝트 하나만 더 하고 앞으로는 반응형 프로그래밍 위주로 공부를 해봐야겠네요. 
 
